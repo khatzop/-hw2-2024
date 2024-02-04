@@ -1,4 +1,4 @@
-body{ 
+body{
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
@@ -9,8 +9,8 @@ body{
 
 h1{
     font-size: 42px;
-    text-align: center;
     padding: 15px;
+    text-align: center;
 }
 
 h2{
@@ -20,15 +20,15 @@ h2{
 
 p{
     font-size: 24px;
-    padding-top: 10;
-    padding-left: 10;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 img{
     width: 250px;
     display: block;
-    margin-right: auto;
     margin-left: auto;
+    margin-right: auto;
     border-width: 10px;
     border-style: dashed;
     border-color: #ffffff;
@@ -38,8 +38,8 @@ div{
     min-height: 125px;
     padding: 20px;
     border-width: 3px;
-    border-color: #ffffff;
     border-style: solid;
+    border-color: #ffffff;
 }
 
 .introduction{
@@ -98,10 +98,10 @@ div.green{
 }
 
 footer{
-    background: linear-gradient(90deg,#000000 0%, #0000ff 25%, #0055ff 70%, #000000 100%);
+    background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
+    border-width: 5px;
     border-style: solid;
     border-color: #ffffff;
-    border-width: 5px;
 }
 
 footer p{
@@ -112,9 +112,6 @@ footer p{
     padding-bottom: 15px;
     padding-left: 0px;
 }
-
-
-
 
 
 
